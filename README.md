@@ -346,21 +346,6 @@ This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) fo
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
 <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-<img src="https://img.shields.io/badge/Firebird-FC521F?style=for-the-badge" alt="Firebird" />
-<img src="https://img.shields.io/badge/IBM%20DB2-1F70C1?style=for-the-badge" alt="IBM DB2" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/CockroachDB-7B52C0?style=for-the-badge" alt="CockroachDB" />
-<img src="https://img.shields.io/badge/IRIS-3B82F6?style=for-the-badge" alt="IRIS" />
-<img src="https://img.shields.io/badge/Databricks%20SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks SQL" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Redshift" />
-<img src="https://img.shields.io/badge/Apache%20Kylin-F59E0B?style=for-the-badge" alt="Apache Kylin" />
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-<img src="https://img.shields.io/badge/VictoriaMetrics-3483EB?style=for-the-badge" alt="VictoriaMetrics" />
-<img src="https://img.shields.io/badge/Databend-4F46E5?style=for-the-badge" alt="Databend" />
-<img src="https://img.shields.io/badge/TDengine-1B8FD4?style=for-the-badge" alt="TDengine" />
-<img src="https://img.shields.io/badge/Teradata-0055A6?style=for-the-badge" alt="Teradata" />
 <br><br>
 <b>Messaging &amp; Streaming</b><br>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
@@ -405,39 +390,3 @@ This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) fo
 <div align="center">
 <sub>Hands-on engineering, built and documented in the open.</sub>
 </div>
-
----
-
-<!-- dbx-connections -->
-## DBX Connections
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Firebird_5n1b-DBX-FC521F?style=flat-square" alt="Firebird_5n1b" />
-<img src="https://img.shields.io/badge/JDBCX_d5pn-DBX-6D28D9?style=flat-square" alt="JDBCX_d5pn" />
-<img src="https://img.shields.io/badge/IBM%20DB2_0leg-DBX-1F70C1?style=flat-square" alt="IBM DB2_0leg" />
-<img src="https://img.shields.io/badge/MariaDB_80g9-DBX-003545?style=flat-square" alt="MariaDB_80g9" />
-<img src="https://img.shields.io/badge/SQL%20Server_wieh-DBX-CC2927?style=flat-square" alt="SQL Server_wieh" />
-<img src="https://img.shields.io/badge/CockroachDB_mo9c-DBX-7B52C0?style=flat-square" alt="CockroachDB_mo9c" />
-<img src="https://img.shields.io/badge/IRIS_cz3h-DBX-3B82F6?style=flat-square" alt="IRIS_cz3h" />
-<img src="https://img.shields.io/badge/Databricks_SQL_rmue-DBX-FF3621?style=flat-square" alt="Databricks_SQL_rmue" />
-<img src="https://img.shields.io/badge/Snowflake_cm_h9-DBX-29B5E8?style=flat-square" alt="Snowflake_cm_h9" />
-<img src="https://img.shields.io/badge/Redis_u0tv-DBX-DC382D?style=flat-square" alt="Redis_u0tv" />
-<img src="https://img.shields.io/badge/Qdrant_1r3s-DBX-DC244C?style=flat-square" alt="Qdrant_1r3s" />
-<img src="https://img.shields.io/badge/Elasticsearch_zfc3-DBX-005571?style=flat-square" alt="Elasticsearch_zfc3" />
-<img src="https://img.shields.io/badge/Cassandra_d8eb-DBX-1287B1?style=flat-square" alt="Cassandra_d8eb" />
-<img src="https://img.shields.io/badge/MongoDB_vexq-DBX-47A248?style=flat-square" alt="MongoDB_vexq" />
-<img src="https://img.shields.io/badge/Redshift_p9d7-DBX-8C4FFF?style=flat-square" alt="Redshift_p9d7" />
-<img src="https://img.shields.io/badge/Apache%20Kylin_xmpz-DBX-F59E0B?style=flat-square" alt="Apache Kylin_xmpz" />
-<img src="https://img.shields.io/badge/Neo4j_j3dsg-DBX-008CC1?style=flat-square" alt="Neo4j_j3dsg" />
-<img src="https://img.shields.io/badge/BigQuery_homk-DBX-4285F4?style=flat-square" alt="BigQuery_homk" />
-<img src="https://img.shields.io/badge/Apache%20Kafka_xpqk-DBX-231F20?style=flat-square" alt="Apache Kafka_xpqk" />
-<img src="https://img.shields.io/badge/VictoriaMetrics_m3sf-DBX-3483EB?style=flat-square" alt="VictoriaMetrics_m3sf" />
-<img src="https://img.shields.io/badge/InfluxDB_wuju-DBX-22ADF6?style=flat-square" alt="InfluxDB_wuju" />
-<img src="https://img.shields.io/badge/Databend_dey6-DBX-4F46E5?style=flat-square" alt="Databend_dey6" />
-<img src="https://img.shields.io/badge/TDengine_4c9i-DBX-1B8FD4?style=flat-square" alt="TDengine_4c9i" />
-<img src="https://img.shields.io/badge/Teradata_rwlm-DBX-0055A6?style=flat-square" alt="Teradata_rwlm" />
-
-</div>
-
-<sub>Connection names shown in the DBX sidebar - decorative reference badges.</sub>
