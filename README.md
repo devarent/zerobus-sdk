@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# zerobus-sdk
+
+<sub>Databricks's Zerobus Ingest SDKs.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | zerobus-sdk |
+| Primary language | Rust |
+| Topics | cpp, data-ingestion, databricks, go, java, python, rust, sdk, typescript |
+| License | Apache-2.0 |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+zerobus-sdk is a hands-on repository focused on: Databricks's Zerobus Ingest SDKs.. Primary language: Rust. Topics: cpp, data-ingestion, databricks, go, java, python, rust, sdk, typescript. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
